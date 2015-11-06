@@ -1,4 +1,4 @@
-package com.viqueen.playground
+package com.viqueen.playground.sample
 
 import akka.actor._
 
